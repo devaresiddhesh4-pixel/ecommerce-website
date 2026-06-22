@@ -1,2 +1,17 @@
-# ecommerce-website
-A responsive E-Commerce Website built with HTML, CSS, and JavaScript featuring product listings, search functionality, shopping cart management, and a modern user interface.
+# Expense Tracker
+
+A personal expense tracker built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Add income and expenses
+- Delete transactions
+- Calculate current balance
+- Store data using Local Storage
+- Responsive user interface
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
